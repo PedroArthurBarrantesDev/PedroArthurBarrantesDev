@@ -2,8 +2,8 @@
 
 
 
-##### I am currently enrolled in a Post Graduate course at [FIAP](https://www.fiap.com.br).
-##### I also have a Bachelor's and Associate's Degree in System Analysis and Development from [FATEC](https://fatecsaocaetano.cps.sp.gov.br).
+##### I am currently enrolled in a postgraduate course at [FIAP](https://www.fiap.com.br).
+##### I also have a bachelor's and associate's degree in Systems Analysis and Development from [FATEC](https://fatecsaocaetano.cps.sp.gov.br).
 
 ## Currently learning
 
