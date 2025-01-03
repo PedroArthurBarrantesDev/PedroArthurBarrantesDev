@@ -1,7 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sejam+muito+bem+vindos...;Welcome+to+the+profile+of...;Pedro+Arthur+Barrantes!&center=true)](https://git.io/typing-svg)
-<h3>Fico muito feliz por você estar aqui hoje!</h3>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVuMno4c295NWp5YXV1MXQ4a3k3eHUyZ3B6eHNpNGpnOWVlYjNiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding_gif">
+<h2>Hi! I'm Pedro Arthur Barrantes! <img src="https://cdn1.iconfinder.com/data/icons/avengers-1/512/avangers_icon002-1024.png" width=25></h2>
+
+
+
+##### I am currently enrolled in a Post Graduate course at [FIAP](https://www.fiap.com.br).
+##### I also have a Bachelor's and Associate's Degree in System Analysis and Development from [FATEC](https://fatecsaocaetano.cps.sp.gov.br).
+
+## Currently learning
+
+<img loading="lazy" src="https://www.svgrepo.com/show/376344/python.svg" width="50" height="50"/>
+
+
+## My social medias
+
 <a href="https://www.linkedin.com/in/pedro-arthur-barrantes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="botao_github"></a>
+
+###### Work in progress :)
+
 <!---
 PedroArthurBarrantesDev/PedroArthurBarrantesDev is a repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
