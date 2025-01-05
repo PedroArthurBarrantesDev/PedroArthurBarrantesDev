@@ -1,4 +1,4 @@
-<h1> Oi! Eu sou o Pedro Arthur Barrantes </h1>
+<h1> Oi! Eu sou o Pedro Arthur Barrantes! </h1>
 
 <img loading="lazy" src="https://media.tenor.com/sveyP9rGWd8AAAAj/text-work.gif" width=120>
 
