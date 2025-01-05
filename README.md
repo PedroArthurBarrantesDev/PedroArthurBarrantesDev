@@ -1,6 +1,6 @@
-<h1> <img loading="lazy" src="https://media.tenor.com/sveyP9rGWd8AAAAj/text-work.gif" width=50> Oi! Eu sou o Pedro Arthur Barrantes </h1>
+<h1> Oi! Eu sou o Pedro Arthur Barrantes </h1>
 
-
+<img loading="lazy" src="https://media.tenor.com/sveyP9rGWd8AAAAj/text-work.gif" width=120>
 
 ##### Estou finalizando minha pós graduação na [FIAP](https://www.fiap.com.br).
 ##### Também sou formado em análise e desenvolvimento de sistemas pela [FATEC](https://fatecsaocaetano.cps.sp.gov.br).
