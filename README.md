@@ -10,7 +10,7 @@
 <img loading="lazy" src="https://www.svgrepo.com/show/376344/python.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/4616/4616790.png" width="45"/>
 
 
-## Minhas social medias
+## Minhas mídias sociais
 
 <a href="https://www.linkedin.com/in/pedro-arthur-barrantes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="botao_github"></a>
 
