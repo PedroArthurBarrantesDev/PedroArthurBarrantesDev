@@ -2,7 +2,7 @@
 
 <img loading="lazy" src="https://media.tenor.com/sveyP9rGWd8AAAAj/text-work.gif" width=120>
 
-##### Estou finalizando minha pós graduação na [FIAP](https://www.fiap.com.br).
+##### Pós Graduado pela [FIAP](https://www.fiap.com.br).
 ##### Também sou formado em análise e desenvolvimento de sistemas pela [FATEC](https://fatecsaocaetano.cps.sp.gov.br).
 
 ## Tecnologias que estou aprendendo
@@ -23,7 +23,7 @@
 
 
 
-##### I am currently enrolled in a postgraduate course at [FIAP](https://www.fiap.com.br).
+##### Postgraduate at [FIAP](https://www.fiap.com.br).
 ##### I also have a bachelor's and associate's degree in Systems Analysis and Development from [FATEC](https://fatecsaocaetano.cps.sp.gov.br).
 
 ## Currently learning
