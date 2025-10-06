@@ -2,7 +2,7 @@
 
 <img loading="lazy" src="https://media.tenor.com/sveyP9rGWd8AAAAj/text-work.gif" width=120>
 
-##### Pós Graduado pela [FIAP](https://www.fiap.com.br).
+##### Pós Graduado pela em Inteligência artificial para desenvolvedores pela [FIAP](https://www.fiap.com.br).
 ##### Também sou formado em análise e desenvolvimento de sistemas pela [FATEC](https://fatecsaocaetano.cps.sp.gov.br).
 
 ## Tecnologias que estou aprendendo
