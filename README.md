@@ -7,7 +7,7 @@
 
 ## Tecnologias que estou aprendendo
 
-<img loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/4616/4616790.png" width="45"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50" height="50"/>
 
 
 ## Minhas mídias sociais
