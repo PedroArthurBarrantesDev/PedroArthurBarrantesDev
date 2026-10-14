@@ -42,18 +42,16 @@ Sou tecnólogo em Análise e Desenvolvimento de Sistemas (FATEC), pós-graduado 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!--
+
 ---
 
 ## 📂 Featured projects / Projetos em destaque
 
- SUBSTITUA os blocos abaixo pelos seus projetos reais. Mantenha 2 ou 3 projetos, os melhores. 
-
-### [Project name 1 / Nome do projeto 1]
-Short description of what it does and the problem it solves. / Descrição curta do que faz e qual problema resolve.
+### Fleet Manager
+Fleet Manager is a Java application where you can register vehicles and drivers, control trips, and generate reports.
 **Tech:** Java · Spring Boot · MySQL
-🔗 [Repository / Repositório](https://github.com/PedroArthurBarrantesDev/NOME-DO-REPOSITORIO)
-
+🔗 [[Repository / Repositório](https://github.com/PedroArthurBarrantesDev/fleet-manager)]
+<!--
 ### [Project name 2 / Nome do projeto 2]
 Short description of what it does and the problem it solves. / Descrição curta do que faz e qual problema resolve.
 **Tech:** Java · Spring Boot · Docker
@@ -63,9 +61,9 @@ Short description of what it does and the problem it solves. / Descrição curta
 Short description of what it does and the problem it solves. / Descrição curta do que faz e qual problema resolve.
 **Tech:** Java · JUnit · Maven
 🔗 [Repository / Repositório](https://github.com/PedroArthurBarrantesDev/NOME-DO-REPOSITORIO)
-
----
 -->
+---
+
 
 ## 🎓 Education & certifications / Formação e certificações
 
